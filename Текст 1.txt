@@ -1,4 +1,1 @@
-Hi everyone
-Hello world
-Bonjour
-Hallo
+Printf("Hello world")
